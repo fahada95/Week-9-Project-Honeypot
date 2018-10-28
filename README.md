@@ -13,7 +13,7 @@ I also found that after accidentally deleting the sensor from the admin console 
 
 ## A summary of the data collected: number of attacks, number of malware samples, etc.
 
-After deploying the honeypot, I was able to get some attacks. In only a short amount of time, the admin console about 47 attacks. The total number of attacks I was able to get, which was about a 30 hour duration, was 50. All attacks were to the Dionaea honeypot. Both the source and destination ports varied. The protocol for every attack was PCAP which is a packet capture which was attempting to identify open ports on our honeypot instance.
+After deploying the honeypot, I was able to get some attacks. In only a short amount of time, the admin console about 37 attacks. The total number of attacks I was able to get, which was about a 10 minute duration, was 40. All attacks were to the Dionaea honeypot. Both the source and destination ports varied. The protocol for every attack was PCAP which is a packet capture which was attempting to identify open ports on our honeypot instance.
 
 ## Any unresolved questions raised by the data collected
 
